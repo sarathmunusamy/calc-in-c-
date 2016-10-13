@@ -15,7 +15,7 @@ namespace Calculator
         /// </summary>/// <summary>
         /// The main entry point for the application.
         /// </summary>
-        [STAThread]
+        [STAThread]   [STAThread]
         static void Main()
         {
             Application.EnableVisualStyles();
