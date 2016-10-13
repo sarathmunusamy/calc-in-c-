@@ -30,7 +30,7 @@ namespace Calculator
         {
             get
             {
-                // Get all Title attributes on this assembly
+                // Get of all Title attributes on this assembly
                 object[] attributes = Assembly.GetExecutingAssembly().GetCustomAttributes(typeof(AssemblyTitleAttribute), false);
                 // If there is at least one Title attribute
                 if (attributes.Length > 0)
