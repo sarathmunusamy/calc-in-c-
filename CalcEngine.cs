@@ -29,6 +29,8 @@ namespace Calculator
         static calcEngine()
         {
             m_equation = "";
+              m_equation = "";
+              m_equation = "";
             m_input = "."; //I use this to respresent no input, which registers as 0
             m_sign = "+";
             m_operation = null;
