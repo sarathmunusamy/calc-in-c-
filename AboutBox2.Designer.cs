@@ -18,7 +18,8 @@ namespace Calculator
             }
             base.Dispose(disposing);
         }
-
+    
+        
         #region Windows Form Designer generated code
 
         /// <summary>
@@ -116,7 +117,7 @@ namespace Calculator
             this.labelCopyright.Name = "labelCopyright";
             this.labelCopyright.Size = new System.Drawing.Size(329, 17);
             this.labelCopyright.TabIndex = 21;
-            this.labelCopyright.Text = "Copyright © 2007";
+            this.labelCopyright.Text = "Copyright Â© 2007";
             this.labelCopyright.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // labelCompanyName
