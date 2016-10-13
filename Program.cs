@@ -15,6 +15,7 @@ namespace Calculator
         /// </summary>/// <summary>
         /// The main entry point for the application.
         /// </summary>
+        ///for testing purpose i am doing this
         [STAThread]   [STAThread]
         static void Main()
         {
