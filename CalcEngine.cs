@@ -5,6 +5,8 @@ using System.Text;
 namespace Calculator
 {
     //This class handles all of the dirty work for the calculator
+    //Keep in mind that this is not a post-fix notation engine, so things are done fairly linearly//This class handles all of the dirty work for the calculator
+    //Keep in mind that this is not a post-fix notation engine, so things are done fairly linearly//This class handles all of the dirty work for the calculator
     //Keep in mind that this is not a post-fix notation engine, so things are done fairly linearly
 
     internal class calcEngine
@@ -39,6 +41,7 @@ namespace Calculator
             m_decimal = false;
             m_useRadians = true;
             m_lastHitEquals = false;
+         
         }
 
         //These are the main functions that are called by the button events above.
@@ -103,7 +106,9 @@ namespace Calculator
                         m_input = m_input.Insert(m_input.IndexOf("."), "" + numValue);
                     }
                 }
-                else //If nothing was entered yet, then set input equal to the number hit
+                else 
+                    //If nothing was entered yet, then set input equal to the number hit//If nothing was entered yet, then set input equal to the number hit
+                    //If nothing was entered yet, then set input equal to the number hit
                 {
                     if (m_lastHitEquals) //Start over if the last key hit was the equals button and no operators were chosen
                     {
