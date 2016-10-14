@@ -1,7 +1,8 @@
 namespace Calculator
 {
     partial class AboutBox1
-    {
+    { 
+        
         /// <summary>
         /// Required designer variable.
         /// </summary>
@@ -111,7 +112,7 @@ namespace Calculator
             this.labelCopyright.Name = "labelCopyright";
             this.labelCopyright.Size = new System.Drawing.Size(271, 17);
             this.labelCopyright.TabIndex = 21;
-            this.labelCopyright.Text = "Copyright © 2007";
+            this.labelCopyright.Text = "Copyright Â© 2007";
             this.labelCopyright.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // labelCompanyName
