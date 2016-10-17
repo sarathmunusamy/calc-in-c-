@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Calculator
 {
+    //to check automatic build trigger is working on teamcity while committing the code in github
     //This class handles all of the dirty work for the calculator
     //Keep in mind that this is not a post-fix notation engine, so things are done fairly linearly//This class handles all of the dirty work for the calculator
     //Keep in mind that this is not a post-fix notation engine, so things are done fairly linearly//This class handles all of the dirty work for the calculator
