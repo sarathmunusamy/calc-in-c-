@@ -5,7 +5,7 @@ using NUnit.Framework;
 
 namespace Calculator
 {
-    //This class contains all the test cases I made for NUnit
+    //This class contains alsl the test cases I made for NUnit
     //If you have NUnit installed you can debug easily by seeing if any test cases become broken
 
     [TestFixture]
