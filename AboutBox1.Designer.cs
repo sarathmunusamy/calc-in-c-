@@ -4,7 +4,7 @@ namespace Calculator
     { 
         
         /// <summary>
-        /// Required designer variable.
+        /// Required designersss variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
