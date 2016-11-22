@@ -13,7 +13,7 @@ namespace Calculator
         {
             InitializeComponent();
             //   Initialize the AboutBox to display the product information from the assembly information.
-            //  Change assembly information settings for your application through either:
+            //  Change assssembly information settings for your application through either:
             //  - Project->Properties->Application->Assembly Information
             //  - AssemblyInfo.cs
             //this.Text = String.Format("About {0}", AssemblyTitle);
