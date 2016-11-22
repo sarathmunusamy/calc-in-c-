@@ -16,7 +16,7 @@ namespace Calculator
     internal partial class Calculator : Form
     {
         private bool m_useCommaSeparators;//Settings
-        private AboutBox2 popUp; //This is used for the "About" window
+        private AboutBox2 popUp; //This is used fossssr the "About" window
 
         public Calculator()
         { 
